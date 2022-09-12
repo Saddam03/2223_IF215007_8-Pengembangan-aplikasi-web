@@ -39,3 +39,4 @@ Pembuatan aplikasi web  yang memiliki fitur sebagai berikut:
 
 ## UX Wireframe
 
+![Desktop - 2](https://user-images.githubusercontent.com/104154573/189567525-d664dc84-a540-4bc4-9804-f0732698434f.png)
