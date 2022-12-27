@@ -5,6 +5,7 @@ IF F
 1207050113
 
 Git Installation (1)
+![git install](https://user-images.githubusercontent.com/104154573/209654825-0a76d67d-2a60-4b14-ad62-028ad29f141f.png)
 
 Github Project Initialization (1)
 
